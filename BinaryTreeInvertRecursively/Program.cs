@@ -40,6 +40,6 @@ namespace BinaryTreeInvertRecursively
             return tree;
         }
 
-        }
+        
     }
 }
